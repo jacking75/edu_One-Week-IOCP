@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.00000.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IOCPServer_13", "IOCPServer_13.vcxproj", "{D1E2F3A4-B5C6-7890-ABCD-EF1234567813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1E2F3A4-B5C6-7890-ABCD-EF1234567813}.Debug|x64.ActiveCfg = Debug|x64
+		{D1E2F3A4-B5C6-7890-ABCD-EF1234567813}.Debug|x64.Build.0 = Debug|x64
+		{D1E2F3A4-B5C6-7890-ABCD-EF1234567813}.Release|x64.ActiveCfg = Release|x64
+		{D1E2F3A4-B5C6-7890-ABCD-EF1234567813}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

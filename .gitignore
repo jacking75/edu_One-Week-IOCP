@@ -39,3 +39,16 @@
 
 # debug information files
 *.dwo
+/code/07/IOCPServer_07/x64/Debug
+/code/02/IOCPEchoServer/x64/Debug
+/code/03/IOCPServer_03/x64/Debug
+/code/04/IOCPServer_04/x64/Debug
+/code/05/IOCPServer_05/x64/Debug
+/code/06/IOCPServer_06/x64/Debug
+/code/08/IOCPServer_08/x64/Debug
+/code/09/IOCPServer_09/x64/Debug
+/code/10/IOCPServer_10/x64/Debug
+/code/11/IOCPServer_11/x64/Debug
+/code/12/IOCPServer_12/x64/Debug
+/code/13/IOCPServer_13/x64/Debug
+/code/14/IOCPServer_14/x64/Debug
